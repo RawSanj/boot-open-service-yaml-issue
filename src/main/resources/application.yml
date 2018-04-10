@@ -1,0 +1,5 @@
+server:
+  port: 8082
+
+// Incorrect Comment
+Or Incorrect YAML causes Spring Boot to exit without giving any error
